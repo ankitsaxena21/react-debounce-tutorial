@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.search {
+	width: 50vw;
+	padding: 7px;
+	font-size: 1.3rem;
+	color: rgb(99, 99, 99);
+	box-sizing: border-box;
+	outline: none;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+.autocomplete {
+	width: 50vw;
+	background: #ffff;
+	border-radius: 5px;
+	box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+.autocompleteItems {
+	border-bottom: 1px solid #e6e6e6;
+	padding: 10px 5px;
+	cursor: pointer;
+}
+
+.autocompleteItems:hover {
+	background: rgb(228, 226, 226);
+}
