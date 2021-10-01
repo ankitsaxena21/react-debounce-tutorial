@@ -1,6 +1,6 @@
 # react-debounce-tutorial
 
-Souce code for youtube tutorial on various methods to implement debouncing in react js.
+Souce code of a youtube tutorial on various methods to implement debouncing in react js.
 
 Youtube Tutorial - [tutorial link](https://www.youtube.com/watch?v=dtacfvLcoxY)
 
